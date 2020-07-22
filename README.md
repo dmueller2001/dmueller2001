@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I’m currently working on https://okd.io and https://openshift.com at https://redhat.com
+💬 Ask me about open source community development and fostering engaged, healthly and diverse tech communities
 <!--
 **dmueller2001/dmueller2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
