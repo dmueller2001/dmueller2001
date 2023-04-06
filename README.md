@@ -1,4 +1,4 @@
-### Hi there 👋
+## Current Status 👋
 🔭 I’m currently working on https://okd.io, https://commons.openshift.org and https://openshift.com at https://redhat.com
 💬 Ask me about open source community development and fostering engaged, healthy and diverse tech communities
 
