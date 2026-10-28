@@ -32,10 +32,7 @@ I'm also contributing to LFDT's draft AI Guidelines and working with the Trust o
 
 ## 🏗️ A Little Background
 
-Previously, I spent more than ten years at **Red Hat**, where I served as a Distinguished Community Architect and Director of Community Development for OpenShift. I founded [OpenShift Commons](https://commons.openshift.org/) and helped build the broader OpenShift and cloud-native community.
-
-I've also worked with the **Cloud Native Computing Foundation (CNCF)** on contributor strategy, mentoring, and community development.
-
+Previously, I spent more than ten years at **[Red Hat](https://www.redhat.com/)**, where I served as a Distinguished Community Architect and Director of Community Development for **[OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)**, Red Hat's enterprise [Kubernetes](https://kubernetes.io/) platform. I founded [OpenShift Commons](https://commons.openshift.org/) and have been an active participant in the Kubernetes community since its inception, helping grow the broader cloud-native ecosystem. My work also included contributing to the **[Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)** on contributor strategy, mentoring, and community development.
 ## 💬 Let's Connect
 
 I'm always interested in collaborating on open-source community development, governance, contributor engagement, and research initiatives.
